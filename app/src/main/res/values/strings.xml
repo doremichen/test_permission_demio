@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestpermissionApp</string>
+    <string name="label_show_info">This app must execute with the DemoSet app together since the target service component is build in the DemoSet app</string>
+</resources>
